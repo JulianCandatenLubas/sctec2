@@ -108,6 +108,8 @@ console.log("variavel contador: " + contador);
 let contadorDescremento = 100;
 console.log("contador--: " + (contadorDescremento--));
 console.log("variavel contadorDescremento: " + contadorDescremento);
+ 
 
+//teste commit 
 
 
